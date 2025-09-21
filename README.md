@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Possa 👋
 
-Sou **estudante de Ciência da Computação na Gran Faculdade** e estudante de **Full Stack**, com foco em **C#** como linguagem principal.  
+Sou **estudante de Ciência da Computação na Gran Faculdade** e estudante **Full Stack**, com foco em **C#** como linguagem principal.  
 Sou apaixonado por desenvolvimento web e construo projetos próprios para aplicar conceitos de front-end e back-end.
 
 
